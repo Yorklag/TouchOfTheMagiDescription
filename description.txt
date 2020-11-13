@@ -1,4 +1,4 @@
 Touch of the Magi is a puzzle-solving adventure game where you play as a mage who has forgoten all their spells. You must relearn your spells and regain your memories.
 
 Your spells are written double-sided on scrolls and they are descroyed when you learn one. This means that you can only learn one spell from each scroll.
-Choose your spells wisely for you can only choose one of every two. Choose wisely.
+Choose your spells wisely for you can only choose one of every two. Choose wisely. But remember there is no "right" choice. All spells can lead to success.
